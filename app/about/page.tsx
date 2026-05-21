@@ -89,10 +89,10 @@ export default function AboutPage() {
               <svg viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-48 h-48 mx-auto">
                 <circle cx="100" cy="100" r="90" fill="#0D1B3E" opacity="0.05"/>
                 <path d="M50 70 Q50 30 80 30 Q105 30 108 52 Q111 30 136 30 Q166 30 166 70 Q166 130 146 165 Q136 185 108 185 Q80 185 70 165 Q50 130 50 70Z"
-                      fill="#F5C518" stroke="white" strokeWidth="3"/>
-                <path d="M88 100 L88 155" stroke="white" strokeWidth="4" strokeLinecap="round"/>
-                <path d="M108 95 L108 165" stroke="white" strokeWidth="4" strokeLinecap="round"/>
-                <path d="M128 100 L128 155" stroke="white" strokeWidth="4" strokeLinecap="round"/>
+                      fill="white" stroke="#CBD5E1" strokeWidth="3"/>
+                <path d="M88 100 L88 155" stroke="#0D1B3E" strokeWidth="4" strokeLinecap="round"/>
+                <path d="M108 95 L108 165" stroke="#0D1B3E" strokeWidth="4" strokeLinecap="round"/>
+                <path d="M128 100 L128 155" stroke="#0D1B3E" strokeWidth="4" strokeLinecap="round"/>
               </svg>
               <h3 className="text-navy font-heading font-bold text-xl mt-4">Deltin Dental Clinic</h3>
               <p className="text-gray-500 text-sm mt-1">Saipuram Colony, Sonipat</p>
